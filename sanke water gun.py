@@ -37,4 +37,4 @@ if result is None:
 elif(result):
     print("you win!")
 else:
-    print("yu lose!")
+    print("you lose!")
