@@ -15,9 +15,9 @@ def win(user,computer):
     elif user=="w" and computer=="s":
         return False
 #gun vs water
-    if user=="g" and computer=="w":
+    if user=="w" and computer=="g":
         return True
-    elif user=="w" and computer=="g":
+    elif user=="g" and computer=="w":
         return False
 
 print("Computer's turn : Snake(s) , Water(w), gun(g)")
