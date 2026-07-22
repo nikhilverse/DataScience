@@ -156,7 +156,7 @@ python filename.py
 
 ## 🎯 Course Reference
 
-These projects were created as practice while learning Python through the **CodeWithHarry Python Course**.
+These projects were created as practice while learning Python through the **CodeWithHarry AI Powered Data Analytics Course **.
 
 ---
 
